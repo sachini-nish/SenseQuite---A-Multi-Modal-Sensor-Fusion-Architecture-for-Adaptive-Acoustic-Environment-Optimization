@@ -1,0 +1,2 @@
+# SenseQuite---A-Multi-Modal-Sensor-Fusion-Architecture-for-Adaptive-Acoustic-Environment-Optimization
+Developed SenseQuiet, a multi-modal sensor fusion system for intelligent noise monitoring in libraries and study spaces. Integrated sound, light, and PIR sensors with adaptive noise calibration and context-aware detection to reduce false alarms, providing tiered visual and audio feedback through an OLED display, RGB LED, and buzzer.
