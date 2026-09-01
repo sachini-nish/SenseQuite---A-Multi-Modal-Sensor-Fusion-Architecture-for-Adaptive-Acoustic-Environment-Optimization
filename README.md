@@ -35,7 +35,16 @@ The main objectives of SenseQuiet are to:
 - Develop a practical and low-cost solution for real-world environments.
 
 ---
+## 📌 Project Snaps
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/343585fc-76b4-483d-ae2f-9f8b0d34cfdc" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/a7ac0f8a-4c72-42de-9675-fec6a108017b" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/632cd7ec-fad0-4b8b-8a11-35000d05ce72" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/d4a2d13c-7d22-4327-93fa-1ad43e67c868" />
 
+---
+## 📌 Linkdein
+https://lnkd.in/p/g2b5sswu
+---
 ## 💡 Proposed System Highlights
 
 ### 🔊 Adaptive Noise Floor Calibration
