@@ -1,0 +1,43 @@
+                  🌐 ENVIRONMENT
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+        ▼               ▼               ▼
+  🔊 SOUND SENSOR     💡 LDR          👤 PIR
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                        ▼
+              ┌──────────────────┐
+              │  SENSOR FUSION   │
+              │                  │
+              │ Environmental    │
+              │ Context Analysis │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ ADAPTIVE NOISE   │
+              │ FLOOR CALIBRATION│
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ TEMPORAL FILTER  │
+              │ & DECISION LOGIC │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ CONTEXT-AWARE    │
+              │ RESPONSE SYSTEM  │
+              └────────┬─────────┘
+                       │
+            ┌──────────┼──────────┐
+            │          │          │
+            ▼          ▼          ▼
+       🖥️ OLED     🔴 RGB LED   🔔 BUZZER
+            │          │          │
+            └──────────┼──────────┘
+                       ▼
+                USER FEEDBACK
